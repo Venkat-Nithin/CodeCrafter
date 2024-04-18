@@ -1,4 +1,4 @@
-# CodeCrafter
+CodeCrafter
 Created by: Venkat Nithin M
 Capstone project
 
